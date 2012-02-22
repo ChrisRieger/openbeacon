@@ -1,4 +1,6 @@
-Here are the file used in my low cost deployment of the Openbeacon system. 
+
+Here are the files used in my low cost deployment of the Openbeacon system. 
+Most of the code belongs to their respective owners. This is simply a fork of many repositories which I changed to run on alternate hardware.
 
 Crosstools-ng: These are the settings used to create the toolchain targeting the AT91SAM7 for building the basesation files. This file is used by the crosstool-ng toolchain builder. If it fails to load due to version issues you may have to manually insert the settings by opening the file with a text editor. 
 
